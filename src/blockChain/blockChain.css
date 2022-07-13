@@ -1,0 +1,146 @@
+
+.card{
+    border:1px solid;
+    margin: 20px;
+    border-color: #E1E3E6;
+    transition: 0.3s;
+    border-radius: 7px;
+}
+.heading_event{
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    
+}
+.like{
+    float: right;
+    /* background-color: white; */
+    border:1px ;
+    border-color: #D9D9D9;
+    border-radius: 5px;
+}
+.font_design{
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.card_stepout{
+    background-color: #FAFAFA;
+    text-align:center;
+    font-size: 15px;
+    font-family: Roboto;
+    color:#20C0E8;
+}
+.Btn_BuyNow{
+    background-color: #20C0E8;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border:#20C0E8
+}
+.heading_speaker{
+    color: #20C0E8;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.font_text{
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+   
+    text-align: left;
+
+}
+.font_usa{
+    font-family: Roboto;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 13px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.font_about{
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #20C0E8;
+}
+.font_detail{
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.heading_Berlin
+{   
+    color: #20C0E8;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.heading_address{
+    color: #5B5B5B;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.font_footer{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 26px;
+text-align: center;
+letter-spacing: 0.01em;
+}
+
+.button_subscribe{
+    border-radius: 5px;
+    margin-left: 5px;
+    
+    color: white;
+    background-color: #20C0E8;
+    font-family: Roboto;
+     font-size: 20px;
+     font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0.01em;
+    text-align: center;
+
+}
+
+.termscondition{
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
